@@ -1,0 +1,5 @@
+{
+  "_base": "https://raw.githubusercontent.com/tomandandy/go/main/",
+  "nn": "nn_top_120_out.wav",
+  "rev": "90BPMReversedLoopII.wav"
+}
